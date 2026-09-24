@@ -1,17 +1,15 @@
-# Hi, I'm YOUR NAME
+# Hi, I'm Liza
 
-I'm a YOUR ROLE (e.g. student / developer / designer) based in YOUR CITY, getting into hackathons.
+I'm a student/intern based in zurich, getting into hackathons.
 
 ## What I'm working on
-- [Hack Idea Roulette](https://github.com/YOUR-USERNAME/hack-idea-roulette): a tiny idea generator for hackathons
-
-## What I'm learning
-- List 2 or 3 things (e.g. JavaScript, Python, Git)
+- a tiny idea generator for hackathons
 
 ## Skills
-Languages and tools you have actually used, even a little.
+German, English, French, Hungarian, learning Finnish 
+Excel, Outlook, Powerpoint 
 
 ## Find me
-- LinkedIn: link
-- Email: your email
+- LinkedIn: linkedin.com/in/lizanagy
+- Email: liza.nagy@protonmail.ch 
 - Looking for a team at HackJunction
