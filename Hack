@@ -1,0 +1,17 @@
+# Hi, I'm YOUR NAME
+
+I'm a YOUR ROLE (e.g. student / developer / designer) based in YOUR CITY, getting into hackathons.
+
+## What I'm working on
+- [Hack Idea Roulette](https://github.com/YOUR-USERNAME/hack-idea-roulette): a tiny idea generator for hackathons
+
+## What I'm learning
+- List 2 or 3 things (e.g. JavaScript, Python, Git)
+
+## Skills
+Languages and tools you have actually used, even a little.
+
+## Find me
+- LinkedIn: link
+- Email: your email
+- Looking for a team at HackJunction
