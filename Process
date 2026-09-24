@@ -1,0 +1,31 @@
+# Hack Idea Roulette
+
+A small web app that generates hackathon ideas. Spin to get a **problem**, a **technology** and a **twist**, lock the ones you like, and spin again.
+
+**Live demo:** https://YOUR-USERNAME.github.io/hack-idea-roulette/
+
+## Why I made it
+
+I built this as my first GitHub project while preparing for HackJunction. I wanted to learn how to publish code, write a README and host a page for free.
+
+## How to run it
+
+No install needed. Download the repo and open `index.html` in your browser.
+
+## Built with
+
+- HTML, CSS and plain JavaScript (no frameworks)
+- GitHub Pages for hosting
+
+## Make it your own
+
+The idea lists are at the top of the `<script>` in `index.html`. Add your own problems, technologies or twists.
+
+## What I learned
+
+- (Write 2 or 3 things here, for example: how to create a repository, how to commit, how to publish with GitHub Pages)
+
+## Ideas for next steps
+
+- Add a "copy idea" button
+- Add more categories (team size, time limit)
